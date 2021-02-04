@@ -1,0 +1,8 @@
+future
+emoji
+requests
+sqlalchemy
+python-telegram-bot==13.2
+psycopg2-binary
+feedparser
+urllib3
