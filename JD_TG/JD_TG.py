@@ -22,9 +22,10 @@ from datetime import datetime
 from dateutil import tz
 
 
-tg_bot_id=''
+tg_bot_id='1613360916:AAGqI-NVmaMTuW1-0GqKoX4CQwaF2pYldRg
+'
 tg_member_id=''
-tg_group_id=''
+tg_group_id='1101443364'
 tg_new_id=''
 tg_bot_cmd=''
 longid=0
